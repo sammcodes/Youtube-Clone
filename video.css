@@ -23,7 +23,7 @@
 
 @media(max-width:550px){
     .videos{
-        grid-template-columns: 1fr;
+        grid-template-columns:1fr 1fr;
         row-gap: 30px;
     }
 }
