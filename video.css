@@ -17,13 +17,14 @@
 @media( max-width:780px){
     .videos{
         grid-template-columns: 1fr 1fr;
+        row-gap: 10px;
     }
 }
 
 @media(max-width:550px){
     .videos{
         grid-template-columns: 1fr;
-        row-gap: 28px;
+        row-gap: 30px;
     }
 }
 .video-box{
