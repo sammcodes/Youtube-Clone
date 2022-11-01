@@ -66,8 +66,9 @@
 
    .header{
     justify-content: space-between;
-   
+    culumn-gap: 10px;
    }
+  
 
    .youtube-apps-icon{
     display: none;
